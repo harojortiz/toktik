@@ -1,0 +1,1 @@
+ D:\\USUARIO\\Desktop\\Movil\\Flutter\ -\ Movil\ 2023\\toktik\\.dart_tool\\flutter_build\\027125ce5229cccad20a6f58cd0f7729\\native_assets.yaml: 
